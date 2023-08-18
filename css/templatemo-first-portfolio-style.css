@@ -557,9 +557,9 @@ strong {
   border-right: 1px solid var(--border-color);
   color: var(--secondary-color);
   font-weight: var(--font-weight-bold);
-  min-width: 130px;
+  min-width: 80px;
   margin-right: 10px;
-  padding: 13px 20px;
+  padding: 13px 2px;
   display: inline-block;
 }
 
